@@ -33,6 +33,8 @@ Enemies are grouped by the biome/zone they appear in: **N**ormal, **F**rozen,
 | Bug           | N    | Flies in straight lines.                                          |
 | Bat           | F    | Flies towards the player; can cross rocks, liquids, and holes.     |
 | Spinner       | F    | Moves in straight lines, bouncing off walls.                       |
+| Icy slime     | F    | Slows player movement and swing speed|
+| Spinner       | F    | Moves in straight lines, bouncing off walls.                       |
 | Icy slime     | F    | Slows player movement and swing speed on hit.                      |
 | Elemental     | L    | Stationary; shoots projectiles at the player.                      |
 | Lava worm     | L    | Burrows underground, periodically surfacing beneath the player.    |
@@ -75,6 +77,7 @@ magic ore from that biome. Each enchantment lasts a fixed number of runs.
 - Swings have a chance to critically hit.
 
 ## Trader
+*Note: The trader system is still being finalised and subject to change.*
 
 The trader lets players see and choose from available reward tiers. Lower
 tiers require more gems to purchase. Which gem set a player has correlates
