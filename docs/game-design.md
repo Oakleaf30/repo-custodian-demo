@@ -33,8 +33,6 @@ Enemies are grouped by the biome/zone they appear in: **N**ormal, **F**rozen,
 | Bug           | N    | Flies in straight lines.                                          |
 | Bat           | F    | Flies towards the player; can cross rocks, liquids, and holes.     |
 | Spinner       | F    | Moves in straight lines, bouncing off walls.                       |
-| Icy slime     | F    | Slows player movement and swing speed|
-| Spinner       | F    | Moves in straight lines, bouncing off walls.                       |
 | Icy slime     | F    | Slows player movement and swing speed on hit.                      |
 | Elemental     | L    | Stationary; shoots projectiles at the player.                      |
 | Lava worm     | L    | Burrows underground, periodically surfacing beneath the player.    |
