@@ -75,7 +75,6 @@ magic ore from that biome. Each enchantment lasts a fixed number of runs.
 - Swings have a chance to critically hit.
 
 ## Trader
-*Note: The trader system is still being finalised and subject to change.*
 
 The trader lets players see and choose from available reward tiers. Lower
 tiers require more gems to purchase. Which gem set a player has correlates
