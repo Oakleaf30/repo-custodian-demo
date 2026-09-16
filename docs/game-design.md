@@ -82,6 +82,8 @@ with which biome's rewards they can access. A special gem — separate from
 the standard biome gems — is required to unlock the trader's fourth and
 final perk slot, and can only be used once all other perks are unlocked.
 
+*Note: The trader system is still being finalised and subject to change.*
+
 ## Miscellaneous systems
 
 - **Minimap** — shows floor layout as it's explored.
